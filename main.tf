@@ -10,9 +10,3 @@ terraform {
 provider "azurerm" {
   features {}
 }
- 
-Voici les ressources que nous allons créer dans le main.tf :
-azurerm_resource_group
-azurerm_service_plan
-azurerm_linux_web_app
-
